@@ -1,1 +1,12 @@
-Basic python scripts
+# Pyscripts
+
+## Requirements
+All these scripts require python 3.
+Some will also require tkinter or turtle.
+
+## Discription
+- HTML.py is used to generate the headings for https://grahamsguides.wordpress.com.
+- L or R.py is a basic text based game to teach left from right.
+- Random.py is for all your random needs.
+- Google it.py opens a browser to your search term.
+- lines of code.py is a recursive python file line counter.
