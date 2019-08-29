@@ -5,6 +5,7 @@ All these scripts require python 3.
 Some will also require tkinter or turtle.
 
 ## Discription
+- Text scroll/Text scroll.pyw is a tkinter based fixed speed text scroller.
 - HTML.py is used to generate the headings for https://grahamsguides.wordpress.com.
 - L or R.py is a basic text based game to teach left from right.
 - Random.py is for all your random needs.
