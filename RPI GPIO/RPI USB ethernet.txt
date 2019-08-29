@@ -1,0 +1,23 @@
+config: dtoverlay=dwc2
+cmdline: modules-load=dwc2,g_ether
+file: ssh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
