@@ -4,8 +4,8 @@ Thease scripts require a rasberry pi running rasbian with rpi.gpio and gpiozero 
 
 ## Discription
 - PI ZERO OVERCLOCK.txt explains overclocking a pi zero.
-- RPI USB ethernet.txt showt the commands for pi zero headless setup with usb ethernet.
-- aliases.sh creates basic persystent alliases.
+- RPI USB ethernet.txt shows the commands for pi zero headless setup with usb ethernet.
+- aliases.sh creates basic persistent alliases.
 - create.sh creates a new file with correct premissions and opens it in nano.
 - gpio.py a basic test for the setup.
 - rpi leds.fzz fritzing file for project.
